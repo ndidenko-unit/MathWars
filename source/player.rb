@@ -13,5 +13,4 @@ class Player
       @health = 0
     end
   end
-
 end
